@@ -1,5 +1,6 @@
 .idea/
 *.iml
+*.ipr
 target/
 .gradle/
 node_modules
